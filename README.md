@@ -1,0 +1,1 @@
+This is the Landing Page project for The Odin Project.  Goal is to practice basic html and css, especially concepts like flexbox.
