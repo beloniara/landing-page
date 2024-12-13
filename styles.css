@@ -96,6 +96,7 @@ ul {
   align-items: center;
   flex-direction: column;
   padding: 0 150px 150px 150px;
+  gap: 50px;
 }
 
 .info-title {
@@ -132,6 +133,30 @@ ul {
   width: 150px;
 }
 
+.hero-quote {
+  display: flex;
+  flex-direction: column;
+  background-color: #e5e7eb;
+  padding: 130px;
+}
+
+.quote {
+  text-align: justify;
+  font-size: 36px;
+  color: #1F2937;
+  font-style: italic;
+  font-weight: lighter;
+  padding-left: 150px;
+  padding-right: 150px;
+}
+
+.author {
+  font-size: 20px;
+  color: #1F2937;
+  font-weight: 900;
+  text-align: right;
+  padding-right: 150px;
+}
 
 
   
