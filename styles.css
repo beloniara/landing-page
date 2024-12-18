@@ -164,8 +164,8 @@ ul {
   justify-content: space-between;
   background-color: #3882f6;
   color: #f9faf8;
-  margin: 100px 160px;
-  padding: 80px 160px;
+  margin: 80px 160px;
+  padding: 70px 160px;
   border-radius: 8px;
 }
 
@@ -194,3 +194,11 @@ ul {
   border: 2px solid #f9faf8;
 }
 
+.footer{
+  text-align: center;
+  background-color: #1f2937;
+  color: #e5e7eb;
+  font-size: 18px;
+  font-weight: light;
+  padding: 50px;
+}
