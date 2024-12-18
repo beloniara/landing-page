@@ -158,5 +158,39 @@ ul {
   padding-right: 150px;
 }
 
+.call-to-action-container{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #3882f6;
+  color: #f9faf8;
+  margin: 100px 160px;
+  padding: 80px 160px;
+  border-radius: 8px;
+}
 
-  
+.call-to-action-title{
+  font-weight: bold;
+  font-size: 24px;
+}
+
+.call-to-action-caption{
+  font-weight: lighter;
+  font-size: 18px;
+
+}
+
+.call-to-action-button{
+  background: #3882f6;
+  border-radius: 8px;
+  color: #f9faf8;
+  font-size: 18px;
+  font-weight: 900;
+  text-align: center;
+  flex-grow: 0;
+  border: none;
+  cursor: pointer;
+  padding: 8px 32px;
+  border: 2px solid #f9faf8;
+}
+
